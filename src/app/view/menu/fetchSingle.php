@@ -1,0 +1,1 @@
+{"menu_id":"34","name":"asd","allergens":["2","6","8"],"price":"100","current":"0","recommendation":""}

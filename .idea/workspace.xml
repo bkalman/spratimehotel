@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bf041cf-c2de-4bae-a23a-5c9d14c13cc1" name="Default Changelist" comment="fixed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sparetimehotel.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sparetimehotel.sql" afterDir="false" />
+    </list>
+    <list id="050500fe-2614-4fd3-bef2-50ff6052a2ad" name="fixed" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/nav.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sort_asc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sort_desc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/controller/ErrorReportsController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/controller/OrdersController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/controller/RoomBookingController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/view/attendanceSheets/fetch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/view/attendanceSheets/fetchSingle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/view/errorReports/fetch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/view/errorReports/fetchSingle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/view/errorReports/img/bill-1-3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/view/errorReports/insert.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/view/menu/fetch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/view/menu/fetchSingle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/view/orders/fetch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/view/orders/fetchSingle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/view/reservationGuest/orders.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/view/reservations/fetch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/view/reservations/fetchSingle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/view/reservations/guests.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/view/reservations/msg.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Sass File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="b2f9a941-8e05-4eae-826b-81b7a9fbe509" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="21" end1="22" start2="21" end2="27" changelist="050500fe-2614-4fd3-bef2-50ff6052a2ad" />
+        <range start1="42" end1="43" start2="47" end2="47" changelist="050500fe-2614-4fd3-bef2-50ff6052a2ad" />
+        <range start1="94" end1="94" start2="98" end2="99" changelist="050500fe-2614-4fd3-bef2-50ff6052a2ad" />
+        <range start1="157" end1="158" start2="162" end2="163" changelist="050500fe-2614-4fd3-bef2-50ff6052a2ad" />
+        <range start1="250" end1="265" start2="255" end2="256" changelist="050500fe-2614-4fd3-bef2-50ff6052a2ad" />
+        <range start1="297" end1="300" start2="288" end2="289" changelist="050500fe-2614-4fd3-bef2-50ff6052a2ad" />
+        <range start1="306" end1="308" start2="295" end2="297" changelist="0bf041cf-c2de-4bae-a23a-5c9d14c13cc1" />
+        <range start1="309" end1="310" start2="298" end2="299" changelist="0bf041cf-c2de-4bae-a23a-5c9d14c13cc1" />
+      </ranges>
+    </file>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="Unnamed" pattern="file[sparetimehotel]:css/*" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1oFdY42ycgD7QJ9SH3PL9S1LLdZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\xampp\htdocs\iskolaphp\zarodolgozat\sparetimehotel\src\app\view\attendanceSheets\js" />
+      <recent name="D:\Program Files\xampp\htdocs\iskolaphp\zarodolgozat\sparetimehotel\src\app\view\reservationGuest\js" />
+      <recent name="D:\Program Files\xampp\htdocs\iskolaphp\zarodolgozat\sparetimehotel\src\app\view\errorReports\js" />
+      <recent name="D:\Program Files\xampp\htdocs\iskolaphp\zarodolgozat\sparetimehotel\src\app\controller" />
+      <recent name="D:\Program Files\xampp\htdocs\iskolaphp\zarodolgozat\sparetimehotel\src\app\view\reservations\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program Files\xampp\htdocs\iskolaphp\zarodolgozat\sparetimehotel\src\app\model" />
+      <recent name="D:\Program Files\xampp\htdocs\iskolaphp\zarodolgozat\sparetimehotel\src\app\view\errorReports\img" />
+      <recent name="D:\Program Files\xampp\htdocs\iskolaphp\zarodolgozat\sparetimehotel\src\app\view\home\js" />
+      <recent name="D:\Program Files\xampp\htdocs\iskolaphp\zarodolgozat\sparetimehotel\src\app\view" />
+      <recent name="D:\Program Files\xampp\htdocs\iskolaphp\zarodolgozat\sparetimehotel\src\app\view\employees\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bf041cf-c2de-4bae-a23a-5c9d14c13cc1" name="Default Changelist" comment="" />
+      <changelist id="050500fe-2614-4fd3-bef2-50ff6052a2ad" name="fixed" comment="" />
+      <created>1612886316937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612886316937</updated>
+      <workItem from="1612886318135" duration="19695000" />
+      <workItem from="1612939600934" duration="29517000" />
+      <workItem from="1613032669541" duration="944000" />
+      <workItem from="1613121040370" duration="4528000" />
+      <workItem from="1613384004594" duration="11421000" />
+      <workItem from="1613637572041" duration="3428000" />
+      <workItem from="1614857125876" duration="7467000" />
+      <workItem from="1614871742221" duration="19816000" />
+      <workItem from="1615144552768" duration="13906000" />
+      <workItem from="1615206689084" duration="12452000" />
+      <workItem from="1615275435089" duration="19482000" />
+      <workItem from="1615324716107" duration="606000" />
+      <workItem from="1615358520895" duration="2280000" />
+      <workItem from="1615361129714" duration="1900000" />
+      <workItem from="1615363311725" duration="6460000" />
+      <workItem from="1615373505673" duration="4762000" />
+      <workItem from="1615448478698" duration="21621000" />
+      <workItem from="1615482061527" duration="22817000" />
+      <workItem from="1615532682821" duration="7270000" />
+      <workItem from="1615836362324" duration="9724000" />
+      <workItem from="1615846213886" duration="3285000" />
+      <workItem from="1615881800678" duration="31301000" />
+      <workItem from="1615963750843" duration="35594000" />
+      <workItem from="1616056415374" duration="15129000" />
+      <workItem from="1616143182251" duration="861000" />
+      <workItem from="1616341891607" duration="7994000" />
+      <workItem from="1616400669715" duration="18572000" />
+      <workItem from="1616484984828" duration="8778000" />
+      <workItem from="1616570009230" duration="26969000" />
+      <workItem from="1616661069404" duration="29992000" />
+      <workItem from="1616741816215" duration="9418000" />
+      <workItem from="1616953480617" duration="6497000" />
+      <workItem from="1617001998619" duration="38216000" />
+      <workItem from="1617087213646" duration="39323000" />
+      <workItem from="1617179098668" duration="38127000" />
+      <workItem from="1617274265321" duration="15416000" />
+      <workItem from="1617347157194" duration="1480000" />
+      <workItem from="1617629785343" duration="27952000" />
+      <workItem from="1617699856437" duration="27832000" />
+      <workItem from="1617773573143" duration="19530000" />
+      <workItem from="1617867024099" duration="1685000" />
+      <workItem from="1618171827569" duration="206000" />
+      <workItem from="1618216287042" duration="23190000" />
+      <workItem from="1618307797367" duration="9112000" />
+      <workItem from="1618379057174" duration="6541000" />
+      <workItem from="1618399150355" duration="24392000" />
+      <workItem from="1618436647606" duration="1090000" />
+      <workItem from="1618471703965" duration="14444000" />
+      <workItem from="1618819223133" duration="1020000" />
+      <workItem from="1618938858247" duration="839000" />
+      <workItem from="1618993433270" duration="160000" />
+      <workItem from="1619016377856" duration="2339000" />
+      <workItem from="1619078796892" duration="5091000" />
+      <workItem from="1619425255288" duration="603000" />
+      <workItem from="1619683457874" duration="10000" />
+      <workItem from="1619771833990" duration="1931000" />
+      <workItem from="1621331314330" duration="29000" />
+      <workItem from="1624220882790" duration="4018000" />
+      <workItem from="1624258502996" duration="1267000" />
+      <workItem from="1627642424760" duration="843000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding readme">
+      <created>1612899776629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612899776629</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding sql">
+      <created>1612899948113</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612899948113</updated>
+    </task>
+    <task id="LOCAL-00003" summary="login system to employees">
+      <created>1612977215975</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612977215975</updated>
+    </task>
+    <task id="LOCAL-00004" summary="access rights">
+      <created>1613404694807</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613404694807</updated>
+    </task>
+    <task id="LOCAL-00005" summary="function reservation">
+      <created>1615482106353</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615482106353</updated>
+    </task>
+    <task id="LOCAL-00006" summary="employees datatables">
+      <created>1616425132414</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616425132414</updated>
+    </task>
+    <task id="LOCAL-00007" summary="restaurant orders">
+      <created>1616603062334</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616603062334</updated>
+    </task>
+    <task id="LOCAL-00008" summary="restaurant menu">
+      <created>1617011582112</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617011582112</updated>
+    </task>
+    <task id="LOCAL-00009" summary="reservations">
+      <created>1617041108250</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617041108250</updated>
+    </task>
+    <task id="LOCAL-00010" summary="error reports">
+      <created>1617631099132</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1617631099132</updated>
+    </task>
+    <task id="LOCAL-00011" summary="reservation guest">
+      <created>1617728863147</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1617728863147</updated>
+    </task>
+    <task id="LOCAL-00012" summary="attendance sheets">
+      <created>1617780108148</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1617780108148</updated>
+    </task>
+    <task id="LOCAL-00013" summary="attendance sheets, employees, error reports, menu - error correction">
+      <created>1618315262601</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1618315262601</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding readme" />
+    <MESSAGE value="Adding sql" />
+    <MESSAGE value="login system to employees" />
+    <MESSAGE value="access rights" />
+    <MESSAGE value="functions read" />
+    <MESSAGE value="function reservation" />
+    <MESSAGE value="employees datatables" />
+    <MESSAGE value="restaurant orders" />
+    <MESSAGE value="restaurant menu" />
+    <MESSAGE value="reservations" />
+    <MESSAGE value="error reports" />
+    <MESSAGE value="reservation guest" />
+    <MESSAGE value="attendance sheets" />
+    <MESSAGE value="attendance sheets, employees, error reports, menu - error correction" />
+    <MESSAGE value="fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="821" y="256" key="FileChooserDialogImpl" timestamp="1621331344918">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="821" y="256" key="FileChooserDialogImpl/-823.-768.1024.728/0.0.2560.1040/201.-1088.1920.1040@0.0.2560.1040" timestamp="1621331344918" />
+    <state x="1008" y="-655" key="VCS.ChangelistChooser" timestamp="1627642588570">
+      <screen x="201" y="-1088" width="1920" height="1040" />
+    </state>
+    <state x="1008" y="-655" key="VCS.ChangelistChooser/-823.-768.1024.728/0.0.2560.1040/201.-1088.1920.1040@201.-1088.1920.1040" timestamp="1627642588570" />
+  </component>
+</project>

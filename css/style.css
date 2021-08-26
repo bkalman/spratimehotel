@@ -1,0 +1,406 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #FBFBFB;
+  overflow-x: hidden;
+  color: #4D4D4D;
+  font-size: 1.3rem;
+}
+
+#nav {
+  background-image: url("../img/bigbg.jpg");
+  background-size: cover;
+  background-position: bottom;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  height: 100vh;
+  overflow: hidden;
+}
+
+footer {
+  background-color: #130000;
+  height: 200px;
+}
+footer p {
+  text-align: center;
+  color: white;
+  padding: 80px 0;
+}
+
+.navbar {
+  background-color: white;
+  width: 100%;
+  position: fixed;
+  z-index: 5;
+}
+
+.navbar-nav {
+  float: right;
+}
+
+#house {
+  background-image: url("../img/housebg.png");
+  background-repeat: repeat-x;
+  background-size: 148px;
+  height: 148px;
+  width: 100%;
+  margin-top: -78px;
+  position: relative;
+  z-index: 2;
+}
+
+#container {
+  width: inherit;
+  background-color: #FBFBFB;
+  position: relative;
+  top: -70px;
+  padding-top: 180px;
+}
+
+#title {
+  width: 500px;
+  position: fixed;
+  top: 100px;
+  left: 50px;
+  z-index: 0;
+}
+#title > h1 {
+  font-size: 120px;
+  font-family: "Stardos Stencil", cursive;
+  letter-spacing: 20px;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 3px black;
+}
+#title > h1 > span {
+  position: absolute;
+  left: 380px;
+  bottom: 0;
+  font-size: 60px;
+  color: fuchsia;
+  font-family: "Yesteryear", cursive;
+  letter-spacing: 5px;
+  text-transform: lowercase;
+  text-shadow: 2px 2px 3px black;
+}
+
+h2 {
+  margin: 50px 0;
+  text-align: left;
+}
+
+form#reservation, #reservation_datas {
+  font-weight: bold;
+  text-align: center;
+}
+form#reservation label, #reservation_datas label {
+  color: #F39F71;
+  text-shadow: 0 0 2px #F39F71;
+}
+form#reservation > .row > .col-12 > .row > div input, #reservation_datas > .row > .col-12 > .row > div input {
+  text-align: center;
+  box-shadow: 2px 2px 3px lightgray;
+}
+form#reservation > .row > .col-12 > .row > div input.form-control, form#reservation > .row > .col-12 > .row > div input.btn, #reservation_datas > .row > .col-12 > .row > div input.form-control, #reservation_datas > .row > .col-12 > .row > div input.btn {
+  border-radius: 50px;
+}
+form#reservation > .row > .col-12 > .row > div input#bedNumber, #reservation_datas > .row > .col-12 > .row > div input#bedNumber {
+  width: 80px;
+  margin-right: 10px;
+  display: initial;
+}
+form#reservation > .row > .col-12 > .row > div input[type=submit], #reservation_datas > .row > .col-12 > .row > div input[type=submit] {
+  font-weight: bold;
+  background-color: #F39F71;
+  color: white;
+  width: calc(100% - 30px);
+  margin: 0;
+}
+
+form#choice table {
+  margin: 0 auto;
+}
+form#choice table input[type=checkbox] {
+  height: 20px;
+  width: 20px;
+  margin-left: 29px;
+}
+form#choice table td:first-of-type {
+  width: 70px;
+}
+form#choice input[type=number] {
+  background-color: #FBFBFB;
+  width: 50px;
+  border: none;
+  margin: auto 10px;
+  text-align: center;
+  height: 20px;
+  line-height: 30px;
+}
+form#choice input[type=number]::-webkit-inner-spin-button, form#choice input[type=number]::-webkit-outer-spin-button {
+  opacity: 1;
+}
+form#choice input[type=number]:focus {
+  outline: none;
+}
+
+#userlog {
+  position: absolute;
+  right: 15px;
+}
+#userlog td {
+  background-color: white;
+}
+#userlog a {
+  margin-left: 10px;
+  color: white;
+}
+
+form#login input {
+  width: 100%;
+}
+
+#latnivalok > .col-12 {
+  text-align: justify;
+  margin: 50px 0;
+}
+#latnivalok > .col-12 > p {
+  margin: 10px;
+}
+#latnivalok > .col-12 > img {
+  width: 500px;
+  margin: 10px;
+}
+#latnivalok > .col-12:nth-of-type(odd) > img {
+  float: left;
+}
+#latnivalok > .col-12:nth-of-type(even) > img {
+  float: right;
+}
+
+#guests {
+  display: none;
+  margin: 10px 0 0 -20px;
+  position: absolute;
+  background-color: white;
+  z-index: 3;
+  width: 300px;
+  box-shadow: 2px 2px 3px lightgray;
+}
+#guests > table {
+  width: 300px;
+  border: 1px solid lightgray;
+  font-size: 17px;
+  font-weight: normal;
+}
+#guests > table hr {
+  margin: 0;
+}
+#guests #adultNumber, #guests #childNumber {
+  width: 50px;
+  margin: 5px;
+  padding: 5px;
+}
+
+h1 {
+  margin-bottom: 50px;
+}
+
+table, .table {
+  font-size: 70%;
+}
+table thead > tr, .table thead > tr {
+  background-color: #bdbdbd;
+}
+table thead > tr a, table thead > tr th, .table thead > tr a, .table thead > tr th {
+  color: black;
+}
+table thead > tr a:hover, table thead > tr th:hover, .table thead > tr a:hover, .table thead > tr th:hover {
+  text-decoration: none;
+  color: #585858;
+}
+table tbody tr td, .table tbody tr td {
+  vertical-align: middle;
+}
+table tbody tr td button.btn, .table tbody tr td button.btn {
+  display: block;
+  width: 40px;
+  height: 40px;
+  margin: 0 auto;
+  padding: 0;
+  border-radius: 5px;
+  box-shadow: none;
+  text-align: center;
+}
+table tbody tr td button.btn.btn-success:hover, .table tbody tr td button.btn.btn-success:hover {
+  background-color: #07b807;
+}
+table tbody tr:nth-of-type(even), .table tbody tr:nth-of-type(even) {
+  background-color: #f0f0f0;
+}
+table tbody tr:nth-of-type(odd), .table tbody tr:nth-of-type(odd) {
+  background-color: #fbfbfb;
+}
+
+.modal-dialog {
+  top: 100px;
+}
+.modal-dialog .form-group {
+  position: relative;
+}
+.modal-dialog .form-group label {
+  font-size: 16px;
+  position: absolute;
+  background-color: white;
+  padding: 0 3px;
+  left: 10px;
+  top: 6px;
+  transition: all 0.2s;
+  cursor: text;
+}
+.modal-dialog .form-group .labelUp {
+  top: -15px;
+  font-size: 13px;
+}
+
+.labelColor {
+  color: #80bdff;
+}
+
+#restaurant_orders {
+  text-align: right;
+}
+
+#restaurant_menu {
+  text-align: left;
+}
+
+#restaurant_orders > a, #restaurant_menu > a {
+  color: #2b2b2b;
+  cursor: pointer;
+}
+
+#restaurant_orders > a:hover, #restaurant_menu > a:hover {
+  text-decoration: underline;
+}
+
+input[type=checkbox] {
+  width: 15px;
+  height: 15px;
+  margin-top: 9px;
+}
+
+#newUser {
+  margin: 0;
+}
+
+#newBill, #deleteBill {
+  color: #969696;
+  cursor: pointer;
+}
+#newBill:hover, #deleteBill:hover {
+  color: #323232;
+}
+
+#deleteBill {
+  color: #ff6161;
+}
+#deleteBill:hover {
+  color: red;
+}
+
+.container {
+  max-width: 1500px;
+}
+
+#reservation_hr {
+  margin-bottom: 50px;
+}
+#reservation_hr .col-6:nth-of-type(2) {
+  text-align: right;
+}
+#reservation_hr .row {
+  background-color: gainsboro;
+}
+#reservation_hr .row > div {
+  background-color: white;
+}
+#reservation_hr .row > div a {
+  color: #2b2b2b;
+}
+#reservation_hr .row > div a.text-success {
+  text-decoration: underline;
+  color: #28a745;
+}
+#reservation_hr .row > div::after {
+  content: "";
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  left: -50px;
+  top: 4px;
+  transform: rotate(45deg);
+  border-top: 2px solid gainsboro;
+  border-right: 2px solid gainsboro;
+}
+#reservation_hr .row > div:first-child::after {
+  display: none;
+}
+
+#reservation_personal {
+  display: none;
+}
+
+p {
+  margin-left: 20px;
+}
+
+.text-underline {
+  text-decoration: underline;
+}
+
+@media (max-width: 991px) {
+  #userlog {
+    position: static;
+    right: 15px;
+  }
+}
+@media (max-width: 850px) {
+  #title {
+    width: 500px;
+  }
+  #title > h1 {
+    font-size: 80px;
+  }
+  #title > h1 > span {
+    left: 300px;
+    font-size: 50px;
+  }
+}
+@media (max-width: 500px) {
+  #house {
+    background-size: 105px;
+    height: 105px;
+    margin-top: -110px;
+  }
+
+  #container {
+    top: -50px;
+  }
+
+  #title {
+    width: 100%;
+  }
+  #title > h1 {
+    font-size: 50px;
+  }
+  #title > h1 > span {
+    left: 200px;
+    bottom: 45px;
+    font-size: 30px;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

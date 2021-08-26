@@ -1,0 +1,1 @@
+{"name":"Kocsis Istv\u00e1n","date":"2021-06-30","start_time":"08:00:00","end_time":"16:00:00","working_hours":"7.5","break":"30","status":null,"employee_id":"1"}
